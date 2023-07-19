@@ -53,7 +53,7 @@ Blocks:
     sell: 0.18
   12:
     material: "TNT"
-    buy: 106.58
+    buy: 120000
     sell: 26.65
   13:
     material: "TUFF"
