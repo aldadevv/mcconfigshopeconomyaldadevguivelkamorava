@@ -2645,7 +2645,7 @@ Ores:
     sell: 3.61
   19:
     material: "NETHERITE_BLOCK"
-    buy: 23296.05
+    buy: 135000
     sell: 5824.02
   20:
     material: "NETHERITE_INGOT"
